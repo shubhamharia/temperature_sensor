@@ -1,0 +1,38 @@
+Net Status Report
+Filename     : C:\Users\Home\OneDrive\PCB_Project\PCB1.PcbDoc
+Date         : 29/01/2021
+Time         : 22:51:35
+Time Elapsed : 00:00:01
+
+Nets, Layer, Length
+    +5, Signal Layers Only, 8289.684mils
+    GND, Signal Layers Only, 6447.061mils
+    NetC1_2, Signal Layers Only, 1981.579mils
+    NetC2_2, Signal Layers Only, 887.631mils
+    NetC3_2, Signal Layers Only, 1970.584mils
+    NetC4_1, Signal Layers Only, 1647.236mils
+    NetDisplay_10, Signal Layers Only, 1242.207mils
+    NetDisplay_11, Signal Layers Only, 1017.384mils
+    NetDisplay_12, Signal Layers Only, 1528.246mils
+    NetDisplay_13, Signal Layers Only, 1285.087mils
+    NetDisplay_14, Signal Layers Only, 1157.362mils
+    NetDisplay_15, Signal Layers Only, 157.27mils
+    NetDisplay_3, Signal Layers Only, 555.62mils
+    NetDisplay_4, Signal Layers Only, 1615.4mils
+    NetDisplay_6, Signal Layers Only, 1023.085mils
+    NetDisplay_7, Signal Layers Only, 631.888mils
+    NetDisplay_8, Signal Layers Only, 1519.577mils
+    NetDisplay_9, Signal Layers Only, 819.813mils
+    NetR5_2, Signal Layers Only, 580.974mils
+    NetR6_1, Signal Layers Only, 792.805mils
+    NetU1_10, Signal Layers Only, 440.489mils
+    NetU1_11, Signal Layers Only, 470.575mils
+    NetU1_12, Signal Layers Only, 439.246mils
+    NetU1_13, Signal Layers Only, 509.041mils
+    NetU1_5, Signal Layers Only, 533.081mils
+    NetU1_7, Signal Layers Only, 895.702mils
+    NetU1_8, Signal Layers Only, 487.796mils
+    NetU1_9, Signal Layers Only, 814.356mils
+    NetU2_3, Signal Layers Only, 166.081mils
+    NetU2_6, Signal Layers Only, 118.499mils
+count : 30
